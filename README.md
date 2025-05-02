@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm I'm Daffa Kaisha Pratama Chandra</h1>
 <h3 align="center">A Fresh graduate Information Systems Bachelor Degree with hands-on experience in data analysis, dashboard development, and project management.</h3>
 
-- 📫 How to reach me **daffakpc21@gmail.com**
+- 📫 How to reach me: **daffakpc21@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/daffa-kaisha-pratama-chandra/](linkedin.com/in/daffa-kaisha-pratama-chandra/)
+- 📄 Know about my experiences: [linkedin.com/in/daffa-kaisha-pratama-chandra/](linkedin.com/in/daffa-kaisha-pratama-chandra/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
