@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daffa kaisha pratama chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daffa kaisha pratama chandra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daffa-kaisha-pratama-chandra-39710b368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daffa kaisha pratama chandra" height="30" width="40" /></a>
 <a href="https://kaggle.com/daffakaisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="daffakaisha" height="30" width="40" /></a>
 <a href="https://instagram.com/daffa kaisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daffa kaisha" height="30" width="40" /></a>
 </p>
