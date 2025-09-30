@@ -76,4 +76,4 @@ An unsupervised learning project to segment customers for an e-commerce business
 
 * **Email:** `daffakpc21@gmail.com`
 * **LinkedIn:** [https://www.linkedin.com/in/daffakaisha/](https://www.linkedin.com/in/daffakaisha/)
-* **Kaggle:** [https://www.kaggle.com/daffakaisha]https://www.kaggle.com/daffakaisha)
+* **Kaggle:** [https://www.kaggle.com/daffakaisha](https://www.kaggle.com/daffakaisha)
