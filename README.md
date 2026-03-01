@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif" />
-
 # Hey, I'm Daffa 👋
 
 **Data-minded developer. Fullstack builder. Vibe coder who actually reads the docs.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daffakaisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffakaisha/)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif" />
 
 </div>
 
