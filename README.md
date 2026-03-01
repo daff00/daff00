@@ -87,8 +87,6 @@ const daffa = {
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=daff00&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=daff00&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=daff00&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
