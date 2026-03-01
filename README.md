@@ -55,7 +55,7 @@ Right now I'm deepening my craft in **JavaScript fullstack development**, buildi
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4D9BFE?style=for-the-badge&logo=deepseek&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-4D9BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
 </p>
 
 ---
@@ -85,8 +85,11 @@ const daffa = {
 
 <div align="center">
 
-![Daffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffakaisha&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffakaisha&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daff00&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=daff00&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=daff00&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
