@@ -76,8 +76,14 @@ const daffa = {
 
 ## 📂 Featured Projects
 
+### 🗂️ [yorindo-ems-frontend](https://github.com/kadaxyorindo-ops/frontend-ems-yorindo)
+> Event Management System (concept) frontend for Yorindo Communication. Built with **React.js**, leveraging shadcn/ui and Radix UI to deliver a modern, accessible, and responsive user interface.
+
+### 🗂️ [yorindo-ems-backend](https://github.com/kadaxyorindo-ops/backend-ems-yorindo)
+> Event Management System (concept) backend for Yorindo Communication. Developed using **Express.js + MongoDB**, providing a scalable RESTful API for managing events and related data.
+
 ### 🗂️ [learn-express-api](https://github.com/daffakaisha/learn-express-api)
-> A beginner-friendly REST API built with **Express.js + MongoDB**. Features MVC structure, request validation, centralized error handling, and a clean service layer. Built with the help of AI tools — and fully understood. 
+> A beginner-friendly REST API built with **Express.js + MongoDB**. Features MVC structure, request validation, centralized error handling, and a clean service layer. Built with the help of AI tools and fully understood.
 
 ---
 
