@@ -1,12 +1,8 @@
 <div align="center">
 
-# Hi, I'm Daffa 👋
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0D1117&text=Daffa%20Kaisha%20P.C.&section=header&reversal=false&desc=User%20Support%20Engineer%20|%20Aspiring%20Cloud%20Engineer&animation=fadeIn&descSize=20&descAlignY=54&fontColor=58A6FF&fontAlignY=35)]()
 
-### User Support Engineer • Aspiring Cloud & Network Engineer
-
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Daffa%20Kaisha&fontSize=46&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=Building%20Reliable%20Infrastructure%20One%20Project%20at%20a%20Time&descAlignY=57&descColor=79C0FF)]()
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=User+Support+Engineer;Learning+CCNA+%7C+Linux+%7C+Docker+%7C+AWS;Building+Homelab+Projects;Always+Curious+About+Infrastructure)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=User+Support+Engineer;Learning+Network+%7C+Linux+%7C+Docker+%7C+AWS)]()
 
 </div>
 
@@ -20,8 +16,6 @@ My daily responsibilities include troubleshooting hardware and operating systems
 
 Outside of work, I'm building practical skills in **networking, Linux, Docker, and AWS** as I transition toward **Cloud Engineering**.
 
-I also enjoy backend development because understanding how applications work helps me design better infrastructure.
-
 ---
 
 # 🎯 Career Roadmap
@@ -30,7 +24,7 @@ I also enjoy backend development because understanding how applications work hel
 🖥 User Support
         │
         ▼
-🌐 Networking (CCNA)
+🌐 Networking
         │
         ▼
 🐧 Linux + Docker
@@ -100,11 +94,7 @@ I also enjoy backend development because understanding how applications work hel
 
 # 🚀 Current Projects
 
-- 🏠 Building a Docker-based Homelab
-- 🌐 Studying Enterprise Networking with Cisco CCNA
-- ☁️ Exploring AWS Core Services (EC2, IAM, VPC, S3)
-- ⚙️ Building REST APIs with Express & MongoDB
-- 📖 Documenting my Networking Journey on GitHub
+To be announced soon...
 
 ---
 
@@ -132,39 +122,9 @@ Infrastructure experiments using **Linux, Docker, networking, monitoring, and se
 
 ---
 
-# 🎯 2026 Goals
-
-### ✅ Completed
-
-- Graduate with a Bachelor's Degree
-- Start my IT Career
-- Learn Git & GitHub
-- Build REST APIs
-- Learn React
-
-### 🔄 In Progress
-
-- Cisco CCNA
-- Linux Administration
-- Docker
-- AWS Cloud
-
-### ⏳ Next
-
-- Build a Production Homelab
-- Deploy Self-hosted Services
-- Learn Terraform
-- Learn Kubernetes
-- Earn an AWS Certification
-- Become a Cloud Engineer
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=daff00&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=79C0FF"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=daff00&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
